@@ -25,4 +25,4 @@ int main() {
 ```
 
 ## Document Link : 
-[Google Docs] : ()
+[Google Docs] : (https://docs.google.com/document/d/16LyON52DFo6w5YDz9DIz9XEmHvdKmvIg/edit?usp=sharing&ouid=104647226569890804002&rtpof=true&sd=true)
