@@ -21,17 +21,16 @@ int main() {
     cout << "==================================================================================================" << endl;
 
     
-    for (meter = 1; meter <= 10; meter++) {
-    double cm = meter * 100;
-    double mm = meter * 1000;
-    double km = meter / 1000.0;
+    double cm = 100;
+    double mm = 1000;
+    double km = 1000.0;
 
-    cout << left << setw(10) << meter 
-        << setw(15) << cm
-        << setw(15) << mm
-        << setw(15) << fixed << setprecision(3) << km
+    cout << left << setw(10) << 1
+        << setw(15) << 1 * cm
+        << setw(15) << 1 * mm
+        << setw(15) << fixed << setprecision(3) << 1 / km
         << defaultfloat << setprecision(6) << endl;
-    }
+
 
     return 0;
 }
